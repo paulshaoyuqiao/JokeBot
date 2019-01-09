@@ -6,7 +6,7 @@
 #        Note that the argument <csv file> is completely optional. If no argument is provided, the bot will directly fetch from the Reddit posts.
 
 # Importing necessary dependencies and libraries
-import time, csv, os, sys, glob, sys
+import time, csv, os, glob, sys
 from Utils import restart_bot, read_and_deliver
 from Fetch import fetch_filtered_posts
 
