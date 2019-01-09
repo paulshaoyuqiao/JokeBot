@@ -1,4 +1,4 @@
-# JokeBot
+# Jokebot
 
 * **Author**: Paul Shao
 * **Description**: A mini-chatbot capable of telling jokes either by using a local `.csv` file with the jokes or fetching from Reddit posts.
